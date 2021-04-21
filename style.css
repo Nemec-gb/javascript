@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .carousel-item img {
+    height: 75vh;
+    object-fit: contain;
+    position: relative;
+  }
+  
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    padding: 25px;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    background: grey;
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+    top: 45%;
+  }
+  
